@@ -42,4 +42,14 @@
     <string name="status">Status</string>
     <string name="dustbin">TODO</string>
     <string name="new_task">TODO</string>
+    <string name="navigation_bell">TODO</string>
+    <string name="cal">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="_29">29</string>
+    <string name="_28">28</string>
+    <string name="_27">27</string>
+    <string name="_22_00">22.00</string>
+    <string name="_4_hours_ago">4 Hours ago</string>
+    <string name="meet_sister">Meet sister</string>
+    <string name="nav_calender">cal</string>
 </resources>

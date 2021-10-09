@@ -261,27 +261,27 @@
                     android:layout_marginLeft="40dp"
                     android:layout_marginTop="8dp"
                     android:fontFamily="@font/poppins_medium"
-                    android:text="Meet sister"
+                    android:text="@string/meet_sister"
                     android:textColor="#4B4B4B"
                     android:textSize="10sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="40dp"
+                    android:layout_marginStart="40dp"
                     android:layout_marginTop="27dp"
                     android:fontFamily="@font/poppins_regular"
-                    android:text="4 Hours ago"
+                    android:text="@string/_4_hours_ago"
                     android:textColor="#4B4B4B"
                     android:textSize="8sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="40dp"
+                    android:layout_marginStart="40dp"
                     android:layout_marginTop="43dp"
                     android:lineHeight="18dp"
-                    android:text="22.00"
+                    android:text="@string/_22_00"
                     android:textColor="#A58FFF"
                     android:textSize="8sp" />
             </androidx.cardview.widget.CardView>
@@ -299,7 +299,7 @@
 
                 <ImageButton
                     android:layout_width="409dp"
-                    android:layout_height="115dp"
+                    android:layout_height="110dp"
                     android:layout_marginTop="15dp"
                     android:background="@color/white"
                     android:contentDescription="@string/nav_calender"
