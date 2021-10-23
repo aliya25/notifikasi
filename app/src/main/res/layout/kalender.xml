@@ -27,12 +27,18 @@
             android:textColor="@color/black"
             android:fontFamily="@font/poppins_medium"/>
 
-        <CalendarView
-            android:id="@+id/calendarView2"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginTop="90dp"
-            android:selectedDateVerticalBar="@drawable/ungu" />
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+            <CalendarView
+                android:id="@+id/calendarView2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="90dp"
+                android:selectedDateVerticalBar="@drawable/ungu" />
+        </RelativeLayout>
 
         <ImageView
             android:layout_width="100dp"
